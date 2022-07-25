@@ -1,0 +1,164 @@
+body{
+    background-image: url(/Users/dadsa/Desktop/ejercicio678/lover.jpg);
+    background-size: cover;
+
+}
+header{
+    background-color:lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serifs;
+    text-align: center;
+    font-size: large;
+}00
+
+.conteiner{
+    text-align: left;
+    font-size:medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.uno{
+    text-align: justify;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 2.7%;
+    vertical-align:text-top;
+    margin: 3%;
+    border: 4px solid white;
+    margin-bottom: 2em;;
+    
+}
+
+
+img{
+    float:right;
+    margin-left: 8%;
+    margin-right: 5%;
+    width: 20%;
+    margin-top: 3cm;
+    padding-left: 15px;
+    margin-bottom: 5cm;
+    max-width: 500px;
+}
+.section-h2{
+    background-color: powderblue;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center 15px;
+    background-position: 70%;
+}
+.container{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    border: 7px solid white;
+}
+
+.link{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    width: 14%;
+    font-size: medium;
+    background-color: powderblue;
+    border-radius: 10;
+
+}
+.link:hover{
+    color:black;
+}
+
+
+
+
+footer{
+    background-color: pink;
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: dotted;
+}
+aside{
+    margin-left: 30;
+   
+    background-position: 10%;
+}
+audio{
+    width: 15%;
+    
+}
+.aside{
+    border: 10cm solid white;
+    background-color: pink;
+}
+
+.invisible{
+    text-align: left;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 5px;
+    float:right;
+    text-decoration: dotted;
+    width: 70%;
+    margin-right: -4cm;
+
+}
+.card{
+    margin-top: 2cm;
+    margin-bottom: 2cm;
+    margin-left: 0cm;
+    margin-right: 0cm;
+    background-size: contain 100%;
+    float: left;
+    size: 100%;
+}
+.card-body{
+    text-align: center;
+}
+.card-img-top{
+ width: 50%;
+margin-left: 0cm;
+ margin-top: 1cm;
+ margin-right: -25cm;
+}
+.card-title{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: -5cm;
+    
+}
+.card-text{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+ 
+.card{
+    width: 105%;
+    margin-left: 0%;
+    background-color: darkgrey;
+    
+}
+.cardclass{
+
+    background-color: powderblue;
+    background-size: 55cm;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center auto ;
+    font-size: large;
+    margin-right: 0cm;
+}
+
+.cardds{
+border-radius: 5cm;
+vertical-align: auto;
+}
+
+.listah2{
+    background-color: powderblue;
+    font-weight: bold;
+    font-size:xx-large;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+.video{
+    border: 5cm;
+    width: 500;
+}
